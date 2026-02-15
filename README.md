@@ -4,7 +4,7 @@ PayStream is a decentralized payroll system that streams salary to employees in 
 
 ## 🚀 Live Demo
 
-https://YOUR-VERCEL-LINK.vercel.app
+https://paystream-finalliveweb.vercel.app/
 
 ## 🧠 Features
 
@@ -36,7 +36,7 @@ npx hardhat run scripts/deploy.ts --network hela
 0x9B86F7D81A12807fEBbAb4C9ddA1cBD989fA8da6
 
 ## 👨‍💻 Author
-SHREYANSH JHA
+SHREYANSH JHA<br>
 SAGAR JINDAL
 
-Your Name
+
